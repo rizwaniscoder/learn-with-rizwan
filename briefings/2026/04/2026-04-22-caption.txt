@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — April 22
+
+Google Cloud Next opens today in Vegas with an "agentic cloud" keynote, and Bezos's physical-AI lab is closing a $10B round at a $38B valuation. Three enterprise-agent deals in the last 24 hours ($80M + $95M + $40M) tell you exactly where services money is flowing this quarter.
+
+Today's brief covers:
+→ 5 opportunity signals — Claude Partner Network, MedTech sales agents, supply-chain AI, EU AI Act deadlines, GCC data-center buildout
+→ Gemini 3.1 Pro hits 77% on ARC-AGI-2 + Meta Muse Spark launches
+→ Cursor in talks at $50B valuation, AcuityMD $80M, Loop $95M, NeoCognition $40M
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-22.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
