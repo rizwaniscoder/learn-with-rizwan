@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — April 23
+
+SpaceX just locked in a $60B option to buy Cursor — the biggest AI coding deal ever on paper. Meanwhile, Google's throwing $750M at partners who build Gemini agents, and that's a direct opening for services shops in our part of the world.
+
+Today's brief covers:
+→ SpaceX–Cursor $60B option and what it means for the coding AI market
+→ Google Cloud's $750M Partner Fund — how to get a slice
+→ MiniMax M2.7 matches GPT-5.3 on SWE-Pro (open weights)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-23.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
