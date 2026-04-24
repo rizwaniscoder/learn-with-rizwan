@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — April 24
+
+OpenAI shipped GPT-5.5 yesterday — top of the Intelligence Index at 60, and the first model explicitly priced ($5/$30 per 1M tokens, 1M context) for agent "super app" deployments, not chat. Every enterprise on 5.4 now has a 20% AI bill question to answer.
+
+Today's brief covers:
+→ GPT-5.5: 98% on Tau2 Telecom, 78.7% OSWorld — why services shops get a migration pipeline
+→ Google Cloud + CVC opens a PE-portfolio sub-contract channel across 100+ companies
+→ Omni's $120M at $1.5B + Cloudsmith's $72M = "AI governance" is now a funded category
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-24.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
