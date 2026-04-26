@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — April 26
+Three frontier shocks in 48 hours: Google put up to $40B behind Anthropic, DeepSeek shipped an open-weight 1.6T model that's already #1 on Vibe Code, and OpenAI's GPT-5.5 + Workspace Agents picked a fight with Microsoft Copilot.
+
+Today's brief covers:
+→ Google's $40B Anthropic deal and the Claude services boom it unlocks
+→ DeepSeek V4-Pro: 1.6T MoE, 1M context, frontier quality at a fraction of the price
+→ Capgemini's new Google Cloud AI Hub — sub-contracting window for boutique agent shops
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-26.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
