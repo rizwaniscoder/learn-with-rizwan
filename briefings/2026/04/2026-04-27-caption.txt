@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — April 27
+
+Google just committed $40B to Anthropic — and on the same day DeepSeek V4 dropped MIT-licensed at 80.6% on SWE-bench, basically tied with Claude Opus 4.6. Frontier AI is now both multi-cloud and openly licensed; the services money is shifting to integration, governance, and migration.
+
+Today's brief covers:
+→ Google's $40B Anthropic deal + Amazon's $25B = $65B+ committed in two weeks
+→ DeepSeek V4-Pro: 1.6T params, MIT license, frontier-grade, ~27% the inference cost of V3.2
+→ Anthropic + NEC stand up Japan's biggest AI-native engineering org — the global template
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-27.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
