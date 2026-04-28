@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — April 28
+
+Microsoft and OpenAI just rewrote their entire partnership — the AGI clause is gone, the Azure exclusivity is gone, and ChatGPT Enterprise can now ship on AWS and Google Cloud. If you do AI integration work, this is the biggest re-platforming opening since 2024.
+
+Today's brief covers:
+→ Microsoft–OpenAI restructure and the multi-cloud opportunity it just unlocked
+→ Avoca's $1B raise proving voice AI for HVAC/plumbing is a real services market
+→ Anthropic's Project Glasswing — Claude Mythos finds 27-year-old zero-days
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
