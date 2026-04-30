@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — April 30
+Anthropic just got pre-emptive offers at a $900B valuation — past OpenAI's $852B — and on the same day, five vertical AI agent companies closed $520M between them. The map of where Q2 services money is going just got a lot clearer.
+
+Today's brief covers:
+→ The five-vertical funding cluster (finance, clinical, defense, web infra, agent security) and how to ride it
+→ Microsoft and OpenAI gut their exclusive deal — multi-cloud GPT-5.5 work is open
+→ DeepSeek V4 ships at 1.6T params open weights, beating GPT-5.4 on Codeforces
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/04/2026-04-30.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
