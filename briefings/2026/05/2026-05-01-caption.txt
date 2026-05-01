@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 01
+Microsoft-OpenAI's Azure exclusivity is officially over and OpenAI's GPT-5.5 + Codex + Managed Agents are now live on AWS Bedrock. Same week, Anthropic is fielding $50B in preemptive offers at a $900B valuation that would top OpenAI.
+
+Today's brief covers:
+→ Accenture's $110M Netomi alliance opens a sub-contractor lane for agentic CX shops
+→ Nvidia's first legal-tech check (Legora at $5.6B) signals where vertical-AI dollars go next
+→ DeepSeek V4-Pro tops Codeforces and ships open weights at 1.6T MoE under MIT
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-01.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
