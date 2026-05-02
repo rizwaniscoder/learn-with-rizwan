@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — May 02
+AI procurement just got rewritten in 96 hours: Pentagon signed 8 Big Tech firms for classified networks (Anthropic explicitly cut out), and OpenAI broke its Microsoft cloud exclusivity to land on AWS Bedrock the next day.
+Today's brief covers:
+→ Microsoft 365 E7 "Frontier Suite" goes GA today — Frontier Partner badge becomes a paid spec
+→ DeepSeek V4-Pro: 1.6T params, 80.6% SWE-bench, ~7× cheaper than GPT-5.5
+→ Ineffable Intelligence (David Silver) raises Europe's largest-ever $1.1B seed
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-02.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
