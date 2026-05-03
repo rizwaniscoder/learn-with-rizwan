@@ -1,0 +1,18 @@
+🧠 Daily AI Brief — May 03
+
+China just blew up Meta's $2B Manus deal — Bloomberg's now calling the
+model "officially dead." And on the same week, Salesforce flipped MCP
+servers to GA across every Enterprise org — the biggest agent channel yet.
+
+Today's brief covers:
+→ Salesforce Hosted MCP Servers go GA — instant agent surface for every Enterprise org
+→ Nvidia makes its first legal-AI bet: Legora hits $5.6B with $50M extension
+→ Kimi K2.6 (open weights, 1T MoE) beats GPT-5.4 on SWE-Bench Pro
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-03.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
