@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — May 5
+AI services money is being structured into asset classes this week — Anthropic + Blackstone/Goldman launched a $1.5B JV to embed Claude inside private-equity portfolios, OpenAI countered with a $4B "Development Company," and Sierra leapt to a $15.8B valuation. Meanwhile, Pentagon picked 8 vendors for classified AI work — Anthropic was blocked.
+Today's brief covers:
+→ Anthropic + OpenAI both build PE-channel JVs for enterprise services
+→ Sierra hits $15.8B with $150M ARR and ~Fortune 50 reach
+→ Pentagon awards classified IL6/IL7 work to 8 vendors, blocks Anthropic
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-05.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
