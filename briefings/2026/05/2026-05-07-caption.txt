@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 7
+
+Anthropic just turned itself into a Wall Street platform — Claude Opus 4.7, ten pre-built finance agents, and full Microsoft 365 integration shipped Tuesday with Jamie Dimon co-signing on stage. Every bank on Claude is now a services opportunity.
+
+Today's brief covers:
+→ Anthropic's 10 finance agents + Microsoft 365 + Moody's + Opus 4.7
+→ SAP drops $1.16B+ on Prior Labs and buys Dremio for the Iceberg lakehouse play
+→ Sierra hits $15B, CopilotKit raises $27M for in-app agents, Pentagon shuts Anthropic out of $7-vendor AI deal
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-07.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
