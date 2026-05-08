@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 08
+OpenAI shipped a voice trio (Realtime-2, Translate, Whisper) that makes multilingual voice agents production-ready — and the same week, EPAM, IBM, and an Anthropic+Goldman+Blackstone JV moved to lock down enterprise AI services.
+
+Today's brief covers:
+→ OpenAI's GPT-Realtime-2, Translate (70 langs), and Whisper hit the API
+→ EPAM racing to certify 10,000 Claude architects — sub-contracting opens
+→ Moonshot AI raises $2B at $20B+ led by Meituan; Sierra hits $15.8B
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-08.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
