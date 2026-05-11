@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — May 11
+The enterprise-agent layer is consolidating fast: Sierra just raised $950M at $15.8B, and the Pentagon picked 8 AI vendors for classified work — Anthropic was cut out. If you sell AI services, this is your buying season.
+Today's brief covers:
+→ Sierra's $950M, Moonshot's $2B and Blitzy's $200M
+→ Microsoft Agent 365 goes GA — and what services flow from it
+→ GPT-5.5 Instant, Kimi K2.6 and a fresh wave of GCC voice-AI opportunity
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-11.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
