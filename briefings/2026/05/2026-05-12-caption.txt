@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 12
+
+Google's threat team just caught the first AI-built zero-day attack in the wild — proving Anthropic's Mythos warning was real, and overnight there's a $100M+ defensive AI services scramble that Pakistan-based shops can plug into.
+
+Today's brief covers:
+→ Google catches first AI-generated zero-day; Project Glasswing opens services lane
+→ Helsing closes in on $1.2B at $18B; Sierra hits $15B on $950M
+→ Open-weights gap to GPT-5.5 shrinks to just 6 points (Kimi K2.6, MiMo V2.5 Pro)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-12.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
