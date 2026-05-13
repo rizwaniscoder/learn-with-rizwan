@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 13
+
+OpenAI just stood up its own consulting arm and bought a 200-person AI services firm to staff it. The labs are now openly competing with the integrators — and the rest of this week's funding (Sierra $950M, Moonshot $2B, Judgment Labs $32M) confirms the money is in the agent layer, not the model.
+
+Today's brief covers:
+→ OpenAI Deployment Company + Tomoro acquisition — the playbook for everyone selling enterprise AI services
+→ Anthropic's Mythos found thousands of zero-days; $100M in credits going only to Project Glasswing partners
+→ Cloudflare cuts 1,100 jobs with internal AI usage up 600% — the cleanest "AI ops" case study yet
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-13.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
