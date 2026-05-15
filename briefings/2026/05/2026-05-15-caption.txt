@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 15
+PwC just committed to retraining 30,000 U.S. staff on Claude and rolling Claude Code firm-wide — the loudest proof yet that the IT-services market is being repriced around foundation-model alliances.
+
+Today's brief covers:
+→ PwC × Anthropic stands up a Claude-native CFO practice; Advocate Health rolls Claude to 167K staff
+→ SAP unveils the Autonomous Enterprise: 50 Joule Assistants, 200+ agents, €100M partner fund
+→ Sierra hits $15B on a $950M Series E; Cisco's AI infra run rate jumps to $9B
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-15.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
