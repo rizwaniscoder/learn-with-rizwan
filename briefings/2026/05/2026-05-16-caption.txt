@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 16
+
+The frontier labs just stopped being only model vendors — OpenAI and Anthropic both launched private-equity-backed consulting firms to deploy their own models inside mid-market companies. If you sell AI services, your biggest competitor and your biggest channel just became the same thing.
+
+Today's brief covers:
+→ OpenAI ($4B) and Anthropic ($1.5B with Blackstone) launch enterprise AI consulting JVs
+→ A self-replicating worm hits 170+ npm/PyPI packages, including Mistral AI's SDK
+→ Open-weight models now trail the frontier by only ~3 months, at a third the price
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-16.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
