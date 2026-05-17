@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 17
+
+OpenAI just stood up a $4B company to embed engineers inside enterprises. The money in AI is officially moving from models to deployment — and that's exactly the market a services shop should be selling into.
+
+Today's brief covers:
+→ OpenAI's $4B Deployment Company + the labs going full consultancy
+→ Sierra raises $950M at ~$15.8B; finance/accounting AI is the next vertical wave
+→ DeepSeek V4 Pro & GLM-4.7 push open-weight to frontier quality at a fraction of the cost
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-17.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
