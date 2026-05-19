@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 19
+
+The real bottleneck in enterprise AI isn't models anymore — it's people who can ship. NTT DATA just bought a 1,000-engineer Microsoft AI shop the same week Google started hiring hundreds of forward-deployed engineers.
+
+Today's brief covers:
+→ The AI-services delivery layer is consolidating into the giants — and what that opens for regional shops
+→ Sierra raises $950M at $15.8B after hitting $150M ARR in 8 quarters
+→ The US now tests frontier models pre-launch via NIST (Google, Microsoft, xAI added)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-19.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
