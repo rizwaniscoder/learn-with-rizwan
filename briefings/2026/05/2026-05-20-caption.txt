@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 20
+Google I/O dropped Gemini 3.5 Flash beating Claude Opus 4.7 and GPT-5.5 on tool-use plus Antigravity 2.0 with an open SDK — and the same day Andrej Karpathy left OpenAI for Anthropic's pretraining team.
+
+Today's brief covers:
+→ The Antigravity SDK + AWS's new $25K agentic-AI MDF — where to plant flags this week
+→ Karpathy joins Anthropic; Anthropic tops the CNBC Disruptor 50 at a ~$44B run rate
+→ Sigma, Dust, Havoc, VoltaGrid, SAP/Prior Labs — where the money actually moved
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-20.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
