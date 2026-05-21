@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 21
+
+Big week for the frontier: Google made Gemini 3.5 Flash the default model for billions and shipped a 24/7 agent, while KPMG just put Claude in front of 276,000 staff. The labs aren't selling models anymore — they're selling the substrate everything runs on.
+
+Today's brief covers:
+→ Google I/O: Gemini 3.5 Flash, the Spark agent, and the Omni world model
+→ Karpathy quits OpenAI for Anthropic's pre-training team
+→ Chinese open-weights coding models hit frontier parity at up to 100x lower cost
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-21.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
