@@ -1,0 +1,18 @@
+🧠 Daily AI Brief — May 23
+
+OpenAI filed confidentially for its IPO on Friday at up to a $1T valuation — the same week Anthropic told investors it's about to post its first-ever quarterly operating profit. The frontier labs just graduated from "startup."
+
+Today's brief covers:
+→ OpenAI's confidential S-1 filing and what its losses imply for the IPO road show
+→ Anthropic's $559M Q2 operating profit on $10.9B revenue — and where it's fragile
+→ HUMAIN × Accenture launching full-stack enterprise AI delivery across Saudi Arabia
+→ Cursor Composer 2.5: frontier-grade coding at one-tenth the per-token cost
+→ Hark's $700M Series A and Modal Labs' $355M Series C — where the smart money landed this week
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-23.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
