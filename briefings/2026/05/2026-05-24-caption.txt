@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 24
+
+The consulting + frontier-lab alliance pattern got loud this week — EY+Microsoft, McKinsey+AppliedAI, SAP+Anthropic all locked in delivery deals, and none of them can hire engineers fast enough. The implementation layer is the lane.
+
+Today's brief covers:
+→ EY + Microsoft pledge $1B for joint industry AI consulting pods
+→ Qwen3.7-Max hits frontier parity with a 1M-token context window
+→ Antigravity 2.0 ships at Google I/O as the 100k-star Gemini CLI is killed
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-24.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
