@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 25
+
+OpenAI quietly filed for a $1T IPO on Friday — and Anthropic just told investors it'll post its first operating profit this quarter on $10.9B in revenue. The frontier labs are now public-market substrate; the implementation work that follows is what BCG sized at $200B.
+
+Today's brief covers:
+→ Unframe just booked $100M in contracts in 12 months selling AI delivery (not software) — the offshore-pod playbook
+→ DeepSeek made its 75% V4 Pro discount permanent: $0.44 per 1M input tokens, 5–10x cheaper than GPT-5.5-class
+→ Exa Labs raised $250M at $2.2B from a16z — the AI agent search layer is consolidating
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-25.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
