@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 26
+
+The trillion-dollar IPO sprint just started. OpenAI filed confidentially Friday, Anthropic is closing $30B at $900B+ this week (overtaking OpenAI), and SpaceX's $2T S-1 books xAI/Colossus as a third operating pillar.
+
+Today's brief covers:
+→ EY + Microsoft commit $1B to forward-deployed AI engineers — 500 enterprises targeted
+→ Qwen 3.7 Max becomes China's highest-ranked model, beats Claude Opus 4.6 on agentic coding
+→ SAP makes Claude the primary reasoning layer across S/4HANA, SuccessFactors and Ariba
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-26.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
