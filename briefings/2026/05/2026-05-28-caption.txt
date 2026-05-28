@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 28
+
+Cognition raised $1B at $26B yesterday — Devin now writes 90% of its own code and ARR jumped 13× in a year. The autonomous engineer is officially the priciest software category in tech, and the implementation services category just got a green light.
+
+Today's brief covers:
+→ Cognition's $1B/$26B round + Fireworks AI eyeing $15B and OpenRouter hitting $1.3B
+→ Anthropic moves Claude agents inside the customer firewall — regulated AI buyers just unblocked
+→ Six concrete opportunity angles for AI services shops in coding, MCP, routing, GCC and Coupa-stack work
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
