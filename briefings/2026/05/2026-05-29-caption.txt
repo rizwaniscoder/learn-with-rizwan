@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 29
+Anthropic just passed OpenAI on valuation ($965B vs $852B) and shipped Opus 4.8 — now leading SWE-Bench Pro by 5 points. The center of enterprise AI is shifting toward Claude in real time.
+
+Today's brief covers:
+→ Anthropic's $65B round + Opus 4.8 coding lead
+→ Cognition (Devin) raises $1B at $26B valuation
+→ Six concrete opportunity signals for AI services shops (Claude Partner Network, GCC deals, EU AI Act window)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-29.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
