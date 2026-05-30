@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — May 30
+
+Anthropic just overtook OpenAI as the world's most valuable startup — $65B raised at a $965B valuation — and shipped Claude Opus 4.8 the same day. Microsoft and NVIDIA put $15B in alongside a $30B Azure compute deal, so Claude is now live on all three hyperscalers.
+
+Today's brief covers:
+→ Cognition's $1B round at $26B (Devin writes 92% of its own code)
+→ OpenRouter hits 25T tokens/week with a $113M Series B from CapitalG
+→ Where the implementation-bench opportunity opens for Pakistan-based services shops
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-30.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
