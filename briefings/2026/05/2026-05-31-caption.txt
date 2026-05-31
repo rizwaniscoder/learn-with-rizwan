@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — May 31
+Anthropic closed a $65B Series H at a $965B valuation on Thursday — with Samsung, SK hynix and Micron on the cap table — and shipped Claude Opus 4.8 the same day. The "Claude on foundry" story is no longer a rumor.
+
+Today's brief covers:
+→ Anthropic's $965B round + Opus 4.8 with Dynamic Workflows (1,000 parallel subagents, same price)
+→ Snowflake's $6B AWS commitment opens a fresh agentic-AI services lane on Graviton/Trainium silicon
+→ OpenAI hands GPT-Rosalind to U.S. biodefense partners — first template for frontier-lab × government work outside defense
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/05/2026-05-31.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
