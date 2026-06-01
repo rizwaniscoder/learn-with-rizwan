@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 01
+
+Two June-1 forcing events landed in the same six hours: NVIDIA opened a brand-new $200B "agent CPU" market at Computex Taipei, and GitHub Copilot's flat-rate era officially ended — every monthly Pro/Pro+ dev is now metered by tokens.
+
+Today's brief covers:
+→ NVIDIA's Vera CPU + Vera Rubin NVL72 — 10x inference per watt vs Blackwell
+→ GitHub Copilot moves to usage-based AI Credits ($0.01 each)
+→ CNN sues Perplexity — 9 publishers now in active copyright litigation
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-01.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
