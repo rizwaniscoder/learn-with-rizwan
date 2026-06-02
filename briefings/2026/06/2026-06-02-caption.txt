@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 2
+
+Anthropic filed for IPO yesterday at $965B — beating OpenAI to the public-markets gate — and today Microsoft cracked open Build with Project Polaris, the in-house coding model that replaces GPT-4 Turbo as Copilot's default in August. The Big Two labs are pulling apart in the same 48 hours.
+
+Today's brief covers:
+→ Anthropic's confidential S-1 and what it unblocks for paused Claude PoCs
+→ Cognition's $1B raise on $492M ARR — Devin's enterprise pull is real
+→ OpenAI–Tata HyperVault, Foundry Agent Service GA, UK AI-engineer demand +81%
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-02.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
