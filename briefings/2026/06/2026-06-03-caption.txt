@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 3
+
+Microsoft just stopped being an OpenAI distributor. At Build today, it shipped MAI-Thinking-1 — a 1T-param reasoning model trained with zero GPT distillation that matches Claude Opus 4.6 on coding — plus a brand-new GitHub Copilot desktop app and its first in-house Maia 200 chips running in production.
+
+Today's brief covers:
+→ Microsoft's seven new in-house MAI models and what it means for Azure OpenAI buyers
+→ Anthropic Glasswing expands to 150 critical-infra orgs across 15+ countries — a new appsec-services market
+→ Cognition raises $1B at $26B (Devin now writes 90% of Cognition's own code) and 4 more big rounds
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-03.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
