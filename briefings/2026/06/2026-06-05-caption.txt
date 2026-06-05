@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 5
+
+DeepSeek finally took outside money — a $7.4B first round at $52–59B from Tencent, CATL and the National AI Industry Investment Fund. The China open-weight champion now has the war chest to chase Anthropic and OpenAI on compute and talent.
+
+Today's brief covers:
+→ DeepSeek's historic raise + MiniMax M3 beating GPT-5.5 on SWE-Bench Pro as open weights
+→ Coralogix's $200M Series F validating AI-agent observability as a buyable line item
+→ The 729% YoY spike in Forward Deployed Engineer hiring — and how offshore shops can cash in
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-05.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
