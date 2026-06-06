@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — June 6
+Anthropic just put a number on the recursive self-improvement curve: Claude wrote 80%+ of the code merged at Anthropic last month, and engineers ship 8× more per day than in 2024 — review is officially the new billable seat.
+Today's brief covers:
+→ Anthropic's "When AI builds itself" paper + a proposed global pause button
+→ Supabase doubles to $10.5B as Claude Code becomes its biggest customer + Multigres launch
+→ NVIDIA's Nemotron 3 Ultra ships open weights (550B MoE, 1M context, strongest US open model)
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-06.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
