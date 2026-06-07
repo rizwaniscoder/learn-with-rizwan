@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 7
+
+Google just agreed to pay SpaceX about $920M a month — roughly $30B through June 2029 — to rent 110,000 NVIDIA GPUs sitting inside xAI's data centers. The biggest model lab on Earth is now renting compute from its biggest rival, and it's in an SEC filing.
+
+Today's brief covers:
+→ The Google–SpaceX–xAI $30B compute deal and what it tells every CFO about model arbitrage
+→ Canada launches a C$500M equity fund for AI companies; Trump opens the door to US gov stakes
+→ Supabase $500M at $10.5B, Ramp $750M at $44B, Generalist AI $400M, Flourish $500M — plus 6 more rounds
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-07.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
