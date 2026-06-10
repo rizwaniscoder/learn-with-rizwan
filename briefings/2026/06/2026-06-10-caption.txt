@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — June 10
+Apple just blew up the iPhone's single-AI deal. iOS 27 Extensions lets you pick Claude, Gemini, Grok or ChatGPT as your default — and Anthropic shipped a Swift package the very next day.
+
+Today's brief covers:
+→ How Pakistan's <1% share of a $12B Gulf AI market is the year's clearest sales opening
+→ Cognition's silent Windsurf → Devin Desktop rebrand and the July 1 Cascade deadline that will break CI pipelines
+→ SpaceX's $1.77T IPO roadshow, EU AI Act enforcement at T-53 days, IBM+Google's new consulting practice and four notable rounds
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-10.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
