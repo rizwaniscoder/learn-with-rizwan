@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 11
+
+OpenAI just plugged into Oracle's enterprise install base — Oracle customers can now spend existing OCI commitments on GPT and Codex with zero new procurement. Every Oracle shop is suddenly a live OpenAI deal.
+
+Today's brief covers:
+→ Claude Fable 5 takes the frontier (80.3% on SWE-Bench Pro, beating Opus 4.8)
+→ SpaceX prices the largest IPO in history at $1.77T, trades tomorrow
+→ NTT DATA commits to 5,000 Gemini Enterprise certifications — a subcontracting window for offshore shops
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-11.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
