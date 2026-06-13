@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — June 13
+SpaceX/xAI just IPO'd at $1.75T — the largest in history, and the first hyperscale AI lab to clear public markets. The same week DeepSeek closed $7.4B at $59B and OpenAI bolted Ona onto Codex to make multi-day coding agents the new default.
+Today's brief covers:
+→ Visa+OpenAI open the agentic-commerce payments rail
+→ Claude Fable 5 ships the first public Mythos-class model (80% SWE-Bench Pro)
+→ Anthropic's Project Glasswing opens a 10,000-vuln remediation market
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-13.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
