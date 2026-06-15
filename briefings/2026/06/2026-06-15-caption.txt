@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 15
+
+Bezos's Project Prometheus emerged from stealth with $12B at a $41B valuation to build an "artificial general engineer" — and the same week, Mistral pushed for $3.5B and Moonshot AI for $30B. Capital is piling into the model/infra layer while 95% of enterprise pilots still don't reach production. That gap is where the services money is.
+
+Today's brief covers:
+→ Claude Sonnet 4 / Opus 4 deprecation hits production today — every Claude integration needs a migration
+→ EU AI Act Article 50 enforceable Aug 2; final labelling Code of Practice published June 10
+→ OpenClaw rockets to 210K GitHub stars; creator joins OpenAI while project stays open-source
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-15.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
