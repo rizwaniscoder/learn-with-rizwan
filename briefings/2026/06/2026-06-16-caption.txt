@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 16
+
+US Commerce just retroactively pulled Anthropic's two most capable Claude models offline worldwide — the first export-control recall of a commercial AI. Enterprise continuity plans are suddenly under the microscope, and there's a real services opening for anyone who's wired up multi-LLM failover.
+
+Today's brief covers:
+→ The Fable 5 / Mythos 5 ban and what to sell into the panic
+→ Bezos's Prometheus raises $12B at $41B for an "artificial general engineer"
+→ Apple ships Gemini-powered Siri + Claude on iPhone via iOS 27 Extensions
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-16.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
