@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 18
+
+Open-source coding just caught the frontier — Z.ai's GLM-5.2 went fully MIT today at ~1/6 the cost of GPT-5.5, and it's the first open model past 80% on Terminal-Bench. The economics of selling AI services just shifted hard.
+
+Today's brief covers:
+→ GLM-5.2 open weights: 74.4% FrontierSWE, near-parity with Opus 4.8
+→ Pakistan IT exports cross $3.4B with AI driving the surge
+→ Accenture Q3 earnings today — the AI-consulting category's first real diagnostic
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-18.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
