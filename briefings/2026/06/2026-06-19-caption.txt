@@ -1,0 +1,12 @@
+🧠 Daily AI Brief — June 19
+Accenture's Q3 print yesterday is the AI-consulting category's first real wobble — bookings down 2% to $19.3B even as revenue climbed 6% to $18.7B.
+Pair that with Anthropic's Seoul launch (six Korean enterprise wins live at day one) and DeepSeek's $7.4B first external round, and the message is: enterprise AI services money is decoupling from the Tier-1 SIs and routing to regional partners.
+Today's brief covers:
+→ Accenture Q3 FY26: the first booking dip in five quarters
+→ Anthropic Seoul + NAVER, Samsung SDS, LG CNS, Nexon, Hanwha, Channel Corp
+→ Odyssey's $310M Series B for world models — on AWS Trainium, not NVIDIA
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-19.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
