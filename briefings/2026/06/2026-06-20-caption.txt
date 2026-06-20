@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — June 20
+SpaceX just bought Cursor for $60B — the largest ever acquisition of a VC-backed startup. Every Cursor customer's CISO is now writing a vendor-risk memo this weekend.
+
+Today's brief covers:
+→ The 60-day migration window SpaceX-Cursor just opened for services shops
+→ Anthropic Seoul locks in Naver, Samsung SDS, LG CNS in one launch
+→ Baseten near $1.5B at $13B as the inference layer becomes its own war
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-20.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
