@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — June 22
+Washington spent last week turning AI deployment into formal industrial policy — FERC fast-tracked data centers onto the grid, the White House and Anthropic started co-writing an AI recall playbook, and Accenture's earnings showed where the services money is actually going.
+
+Today's brief covers:
+→ FERC's 60-day clock on six regional grid operators
+→ Anthropic's Fable 5 still offline — and the migration window for services shops
+→ Odyssey's $310M Series B and the new AWS Trainium pivot
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-22.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
