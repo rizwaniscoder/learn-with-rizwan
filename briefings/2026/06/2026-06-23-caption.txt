@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 23
+
+SpaceX inked a $6.3B / three-year compute deal with Reflection AI yesterday — Memphis Colossus 2 is now home to Anthropic, Google AND America's biggest open-source frontier bet, and the integration partner shortlist for whatever Reflection ships next is being written this quarter.
+
+Today's brief covers:
+→ Reflection joins SpaceX at $150M/month — open-frontier deployment partners wanted
+→ Qualcomm circling Tenstorrent at $8–10B — "what's your CUDA exit?" is now a board question
+→ Arcade.dev raises $60M with Wipro on the cap table — MCP authorization is officially buyer-funded
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-23.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
