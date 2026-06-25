@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 25
+
+OpenAI just shipped its first chip — Jalapeño, built with Broadcom in nine months and roughly half the cost per token of today's GPUs. The "NVIDIA-only" inference story is over, and every CIO running real AI workloads now has a second-source question to answer.
+
+Today's brief covers:
+→ Jalapeño's nine-month tape-out and what it means for inference economics
+→ Vishal Sikka's $32M Hang Ten — the first AI-native shot at TCS/Infosys/Accenture
+→ Taktile ($110M) and Assort Health ($120M at $1.2B) — agents go regulated
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-25.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
