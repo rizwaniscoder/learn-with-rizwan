@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 26
+
+OpenAI unveiled its first custom chip this week — Jalapeño, designed with Broadcom in nine months and deploying gigawatt-scale by year-end. The same week, ex-Infosys CEO Vishal Sikka raised $32M to do enterprise AI delivery without the bench-and-bill IT services model.
+
+Today's brief covers:
+→ OpenAI × Broadcom Jalapeño chip — first OpenAI silicon, fastest ASIC cycle ever
+→ Hang Ten Systems' $32M seed targets the IT services pricing model
+→ Assort Health hits $1.2B and Taktile pulls $110M as production AI agents scale
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-26.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
