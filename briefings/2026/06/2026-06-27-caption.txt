@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — June 27
+Enterprise AI spending just flipped from "tokenmaxxing" to efficiency this week. Lindy moved 100% off Claude to DeepSeek and cut inference ~90% — the same migration math is now sitting on every Series-B+ CFO's desk.
+Today's brief covers:
+→ Lindy's 90% inference cost cut and the eval discipline that gates the migration
+→ Anthropic's Claude Tag (persistent Slack teammate) and the 30-day rollout window
+→ OpenAI + Broadcom's Jalapeño chip, Anthropic's October IPO, and 4 fresh funding rounds
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-27.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
