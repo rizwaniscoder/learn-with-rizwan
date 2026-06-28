@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 28
+
+In a single 48 hours on Friday, the US Commerce Department turned both frontier US labs into export-licensed vendors. Anthropic's Mythos 5 was cleared for ~100 named "trusted partners," and OpenAI's GPT-5.6 Sol/Terra/Luna launched the same day under matching restrictions.
+
+Today's brief covers:
+→ Mythos 5 cleared by Commerce for ~100 US companies and agencies
+→ GPT-5.6 Sol/Terra/Luna preview + OpenAI's first Broadcom-built Jalapeño inference chip
+→ EU AI Act high-risk obligations hit August 2 — five weeks of paid compliance sprints left
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
