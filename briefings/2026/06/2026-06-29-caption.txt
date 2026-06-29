@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — June 29
+Anthropic is locking talent and channel before its IPO — 4 senior DeepMind researchers gone in 6 days, 28.8M unauthorized Claude calls now a Senate exhibit, and TCS + OpenAI Partner Network are quietly building the Fortune 500 delivery channel right now.
+Today's brief covers:
+→ OpenAI's 300K-consultant goal + TCS's 50K Claude seats — what boutiques outside the named lists should specialize in this quarter
+→ Anthropic vs Alibaba/Qwen: 28.8M unauthorized Claude calls and a new compliance services line
+→ DeepSeek V4-Pro ties Gemini 3.1 Pro at 80.6% SWE-bench — open weights, MIT, 1M context
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-29.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
