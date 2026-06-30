@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — June 30
+
+Pakistan's 0.25% Final Tax Regime on IT and ITES exports just got locked in for three more years (through FY29) — the first day of FY27 starts tomorrow. If you're selling AI services from Karachi, Lahore or Islamabad, your rate card just got a stability story to tell US/UK/EU/GCC buyers.
+
+Today's brief covers:
+→ Pakistan extends 0.25% IT export FTR through June 2029
+→ GPT-5.6 Sol hits 91.9% on Terminal-Bench 2.1; Terra is 2x cheaper than 5.5
+→ Claude Mythos 5 cleared for ~100 US orgs; Fable 5 still dark for everyone else
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/06/2026-06-30.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
