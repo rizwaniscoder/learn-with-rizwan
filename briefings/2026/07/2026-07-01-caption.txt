@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 01
+Microsoft 365 Copilot for Business goes permanent at reset prices today — every renewal quote from this morning is a fresh sales conversation.
+Alongside: the EU AI Act high-risk clock is at 32 days and Sol lights up on Cerebras at 750 tokens/sec.
+
+Today's brief covers:
+→ Copilot for Business SKU + pricing reset (services-shop playbook inside)
+→ OpenAI's Sol on Cerebras at ~15× GPT-5.5 scale-tier speeds this month
+→ Baseten's $1.5B Series F confirming inference-ops as its own category
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-01.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
