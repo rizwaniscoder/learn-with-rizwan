@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 02
+Anthropic just went from blockaded to default in 48 hours: Sonnet 5 shipped Tuesday at $2/$10 with 1M context, and Fable 5 came back globally Wednesday after export controls lifted. If your client is on Opus 4.8 or Sonnet 4.6, you have a repricing conversation open this week.
+Today's brief covers:
+→ Claude Sonnet 5 beats Opus 4.8 on Terminal-Bench 2.1 at one-seventh the price
+→ Claude Science launches with 60+ pre-wired databases — new pharma services lane
+→ Verkada + NVIDIA validates the physical-AI integrator opportunity
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-02.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
