@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 03
+Anthropic dropped Sonnet 5 at $2/M input — Opus-close on benchmarks for one-fifth the cost. And in the same 72 hours, Together AI hit $8.3B and the EU quietly delayed the whole high-risk AI Act by 16 months.
+Today's brief covers:
+→ Sonnet 5's Aug 31 pricing arbitrage window
+→ EU AI Act delay: what your compliance pitch becomes now
+→ Together AI $800M, Higharc $95M, TwelveLabs $100M, Straiker $64M
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-03.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
