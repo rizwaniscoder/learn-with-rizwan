@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 04
+AWS and Microsoft just made enterprise AI deployment a services business — $1B and $2.5B respectively to embed engineers inside customers.
+The mid-market they won't touch is where the money is.
+
+Today's brief covers:
+→ The hyperscaler FDE playbook and where regional shops fit in
+→ Claude Sonnet 5 launches at $2/$10 per MTok — 8 weeks of arbitrage
+→ Together AI raises $800M at $8.3B, Aramco leads
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-04.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
