@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 05
+
+Aramco Ventures just led an $800M Series C into Together AI at $8.3B — the biggest bet yet that open-source inference wins enterprise, and the clearest signal so far that GCC sovereign money is setting AI infra prices.
+
+Today's brief covers:
+→ Aramco leads Together AI's $800M at $8.3B — GCC opportunity signal for open-source deployment shops
+→ Claude Sonnet 5 becomes default at $2/M — every existing Claude workload needs a migration + cost audit before Aug 31
+→ EU AI Act high-risk enforcement is 28 days out — the last window to sell readiness engagements
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-05.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
