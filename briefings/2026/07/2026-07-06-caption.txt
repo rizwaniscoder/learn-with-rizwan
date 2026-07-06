@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 06
+Microsoft just committed $2.5B and 6,000 engineers to embed AI experts inside enterprise customers — one day after Meta launched its own cloud business to sell spare GPUs. The Big Tech AI holdouts are officially on systems-integrator turf.
+Today's brief covers:
+→ Microsoft Frontier Company + Meta Compute reshape enterprise AI
+→ EU AI Act GPAI enforcement is 27 days out (Aug 2 deadline)
+→ California signs the largest state-level Claude deployment in the US
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-06.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
