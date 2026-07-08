@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 08
+
+Claude Fable 5 came off flat-rate subscriptions at midnight and now meters at $10/$50 per M tokens — 2× Opus 4.8 pricing. Every Fable 5 workload just tripled overnight, right as Sysdig documented JADEPUFFER: the first fully agentic ransomware in the wild.
+
+Today's brief covers:
+→ Fable 5 metering starts today — sell fixed-fee FinOps audits to any team running Claude in production
+→ JADEPUFFER makes "agentic attack surface review" a Q3 line item on every CISO budget
+→ Crusoe raising $3B at $30B with 4.9GW contracted — Meta and Microsoft anchor a wide-open migration services layer
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-08.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
