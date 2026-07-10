@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 10
+TCS just told the market AI transformation is a $2.6B revenue line — not a slide.
+That plus a marquee SKF deal and fresh Anthropic and Mistral partnerships is the loudest signal yet that outsourced AI implementation is now a real budget category.
+
+Today's brief covers:
+→ TCS $9.5B order book + Anthropic/Mistral partnerships — what regional AI shops should pitch this week
+→ Norm AI hits unicorn on a $120M Khosla-led Series C — the RegTech copilot wave is on
+→ Nvidia ships open-weight Nemotron TwoTower at 2.42x throughput, 98.7% quality retained
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-10.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
