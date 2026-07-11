@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 11
+OpenAI shipped its long-teased "super app" yesterday, its Deployment Company bought a second FDE shop this week, and Meta priced Muse Spark 1.1 at a quarter of Fable 5 — the frontier layer has stopped competing on models and started competing on delivery and price.
+Today's brief covers:
+→ ChatGPT Work launches; Codex + Atlas + desktop agent; Sol/Terra/Luna at $5/$2.50/$1 input
+→ Ollama's $65M Series B (Theory-led, 8.9M developers) + Meta's Muse Spark 1.1 price collapse
+→ Indian tier-1 IT Q1 FY27 calendar: HCLTech Mon, Wipro Thu, Infosys Jul 23 — 4-day mid-market outreach window
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-11.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
