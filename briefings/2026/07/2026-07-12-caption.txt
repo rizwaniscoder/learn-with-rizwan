@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 12
+
+Apple sued OpenAI on Friday for systematic trade-secret theft and confirmed Siri will run on Google Gemini, not ChatGPT — a clean break with the 2024 partnership on the same day SK Hynix's $26.5B Nasdaq debut priced the AI memory stack at $1.27T.
+
+Today's brief covers:
+→ Apple v. OpenAI, Siri → Gemini, and the Siri/Gemini iOS migration wedge
+→ Meta ships its first paid frontier model at $1.25/$4.25 per M tokens
+→ China's Anthropomorphic AI rules take effect Wednesday — 3 days out
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-12.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
