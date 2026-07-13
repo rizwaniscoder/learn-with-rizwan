@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — July 13
+Apple's Friday trade-secret suit against OpenAI just turned every ex-Apple AI hire into an enterprise IP-audit problem — the kind of week nobody wants five days out from Gemini 3.5 Pro and two Indian tier-1 earnings prints.
+
+Today's brief covers:
+→ Apple v OpenAI: 400+ ex-Apple staff named, hardware chief accused of "show and tell" theft
+→ SambaNova closes $1B at $11B — JPMorganChase signs on as on-prem inference partner
+→ Gemini 3.5 Pro slips to Friday July 17 for a full architectural rebuild
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-13.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
