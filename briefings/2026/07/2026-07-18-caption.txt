@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 18
+
+The AI frontier went four-way in 72 hours: Moonshot's Kimi K3 (2.8T open weights) landed, Google finally shipped Gemini 3.5 Pro, and Databricks closed $3B at $188B — all while 29 countries signed a Beijing-anchored AI cooperation charter at WAIC.
+
+Today's brief covers:
+→ Kimi K3 open weights just matched frontier — a two-week inference-migration selling window is now open
+→ EU AI Act Article 50 chatbot fines bite in 15 days (€15M or 3% turnover) — 90% of merchants aren't ready
+→ AWS opens Partner-Led Forward Deployed Engineering — mid-market services shops get in the Bedrock deployment room
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-18.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
