@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 20
+Anthropic and Blackstone just stood up a $1.5B AI implementation firm with 100 engineers — the clearest signal yet that the labs think the next trillion-dollar business is deployment, not models.
+Today's brief covers:
+→ Ode with Anthropic launches Claude-first, at $1.5B
+→ Moonshot ships Kimi K3 — 2.8T open-weight, third on GDPval
+→ EU AI Act Code of Practice signing deadline is Wednesday
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-20.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
