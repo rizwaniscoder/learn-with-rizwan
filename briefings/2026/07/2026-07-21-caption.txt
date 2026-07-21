@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — July 21
+Three hard clocks fire this week: the EU AI Code of Practice signing closes tomorrow at 18:00 CEST, Infosys prints Q1 FY27 Thursday, and DeepSeek retires its legacy model IDs Friday — every pipeline pointing at them breaks the same day.
+Today's brief covers:
+→ EU Article 50 enforcement is 12 days away — sign the Code by Wednesday or explain why
+→ Databricks signs $188B term sheet with Coatue; Fireworks closes $1.5B Series D at $17.5B
+→ Kimi K3 lands at 2.8T params, takes #1 on Frontend Code Arena over Fable 5
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-21.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
