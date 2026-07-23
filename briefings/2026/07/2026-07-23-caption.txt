@@ -1,0 +1,17 @@
+🧠 Daily AI Brief — July 23
+AMD just put a real rack-scale competitor on stage against Nvidia — Helios at $5–5.5M per rack, shipping in the same window as Vera Rubin. That's a first for hyperscale AI.
+
+Today's brief covers:
+→ AMD's Helios + MI455X launch and what it means for buyers
+→ Google shipping three Geminis in one day (including a security-tuned Cyber variant)
+→ Fireworks AI hits $17.5B on $1B ARR — enterprises are fleeing frontier API pricing
+→ HCLTech: only 18% of enterprises see real AI revenue — a services goldmine
+→ EU AI Act enforcement starts Aug 2 — 10-day compliance sprint
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-23.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
