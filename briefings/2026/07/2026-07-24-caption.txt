@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — July 24
+Infosys just cut FY27 growth to 1.5-3% while AI services jumped to 8.2% of revenue in one quarter — the outsourcing→AI budget swap is now measurable at India's #2 IT major. Nine days until EU AI Act chatbot rules bite.
+
+Today's brief covers:
+→ EU AI Act Article 50 goes live Aug 2 — €15M or 3% of turnover for non-disclosure
+→ Kimi K3 (2.8T open-weight MoE) beats Fable 5 on Frontend Code Arena; White House threatens sanctions on Moonshot
+→ CuspAI raised $450M at $2.6B, Cathedral $160M at $1.4B, Fireworks AI $1.5B — cyber, materials and inference get the money
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-24.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
