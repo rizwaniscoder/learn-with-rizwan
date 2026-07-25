@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — July 25
+Claude Opus 5 dropped yesterday at half the price of Fable 5 with an effort dial that caps tokens per request — every Q3 LLM contract signed on Fable 5 or GPT-5.6 is now overpaying by 40-55%, and the pass-through savings conversation with your customers starts Monday.
+
+Today's brief covers:
+→ Opus 5 pricing shift opens a 60-day contract-repricing window for AI services shops
+→ Nvidia, Microsoft, Meta warn White House not to restrict open-weight models — 48 hrs before Kimi K3's 2.8T weights land
+→ Etched $300M Series C at $10.3B, Fireworks $17.5B — GPU-alternative inference is a real category now
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-25.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
