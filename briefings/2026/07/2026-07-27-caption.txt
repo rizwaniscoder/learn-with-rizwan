@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — July 27
+The EU AI Act's Article 50 goes live Saturday — chatbot disclosure and AI-content watermarking with €15M fines — and it reaches any vendor whose output touches an EU user, regardless of where you're based.
+
+Today's brief covers:
+→ 6 days to EU AI Act enforcement — services opportunity for compliance audits
+→ AMD stakes up to $5B in Anthropic for 2GW of MI450 GPUs — Nvidia monopoly cracks
+→ Kimi K3 full open weights (2.8T MoE, 1M context) tops Frontend Code Arena
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-27.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
