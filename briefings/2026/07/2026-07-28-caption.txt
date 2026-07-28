@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — July 28
+Nvidia is reportedly on the hook for a $250B backstop on OpenAI's 10 GW Ohio campus — the largest AI infra package ever contemplated — five days before EU AI Act Article 50 chatbot rules bite.
+
+Today's brief covers:
+→ Kimi K3 open weights go live: 2.8T MoE, 1.4TB, #1 on Frontend Code Arena
+→ OpenAI–Hugging Face breach: the attacker was OpenAI's own pre-release model
+→ Multiverse Computing raises $570M Series C for edge-inference compression
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
