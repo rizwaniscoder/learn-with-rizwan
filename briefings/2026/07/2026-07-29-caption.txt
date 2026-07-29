@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 29
+Meta and Microsoft report Q2 after the bell tonight — first real stress test of the $725B Big Four AI capex bill for 2026.
+And it lands 4 days before EU AI Act chatbot rules bite on Sunday.
+
+Today's brief covers:
+→ EU AI Act Article 50 goes live August 2 — Ready-to-sell compliance sprint inside
+→ Kimi K3 open weights dropped a day early — 2.8T MoE, MIT, 1.56TB
+→ Claude Opus 5 ships with an effort toggle at half of Fable 5 price
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-29.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
