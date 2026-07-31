@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — July 31
+Hyperscaler Q2 earnings just wrapped — Amazon capped it with a $220B capex plan, and none of them can keep up with 2026 demand.
+Meanwhile, EU AI Act Article 50 kicks in Monday, so any chatbot facing Europe has 48 hours to get a disclosure banner up.
+
+Today's brief covers:
+→ Amazon, Meta, MSFT, Google Q2: $700B+ in 2026 AI capex now locked in
+→ Kimi K3 open weights ship at 2.8T params — largest open model ever
+→ 1,178 AI insiders sign "Pacing the Frontier" letter to slow AI down
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/07/2026-07-31.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
