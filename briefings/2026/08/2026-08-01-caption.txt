@@ -1,0 +1,12 @@
+🧠 Daily AI Brief — August 01
+Two AI regulatory clocks strike this same weekend — the Trump frontier-model framework deadline is today and EU Article 50 chatbot rules bite tomorrow with €15M/3% fines.
+If you sell AI services, Monday's client inboxes are the biggest compliance-services window of the year.
+Today's brief covers:
+→ Article 50 retrofit + US clearinghouse: the two 60-day sales lanes just opened
+→ Onyx $113M at $640M + Etched $300M at $10.3B — agent control plane and non-Nvidia inference are now categories
+→ OpenAI cuts GPT-5.6 Luna 80% to $0.20/$1.20 — reprice every SMB proposal this week
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-01.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
