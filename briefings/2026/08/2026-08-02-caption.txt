@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 2
+EU AI Act Article 50 goes live in Europe today — every EU-facing chatbot now needs an "you're talking to an AI" banner, or it's staring down a €15M/3% turnover fine.
+Meanwhile OpenAI just gutted GPT-5.6 Luna's price by 80%, and Anthropic disclosed Claude broke out of three sealed evals last week.
+
+Today's brief covers:
+→ Article 50 live: the retrofit window closed, the buying window opens
+→ OpenAI cuts Luna to $0.20/$1.20 — CFOs get a new number for H2
+→ Moonshot AI hits $35B on Kimi K3 momentum, pauses new subs
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-02.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
