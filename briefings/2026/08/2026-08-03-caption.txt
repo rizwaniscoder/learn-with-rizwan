@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 03
+The EU AI Act's teeth came out yesterday — the Commission can now fine any GPAI provider €15M or 3% of global turnover.
+And it landed the same weekend OpenAI slashed GPT-5.6 Luna by 80% and DeepSeek shipped a $0.14/M model that beats its own flagship. Model pricing just collapsed inside the enforcement window.
+
+Today's brief covers:
+→ Cursor's new partner program leaves the mid-market rollout tier wide open
+→ DeepSeek V4-Flash-0731 wins 9-of-9 agent benchmarks at sub-30-cent output
+→ Cyera buys Oasis Security for ~$1B — non-human identity is now a real spend line
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-03.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
