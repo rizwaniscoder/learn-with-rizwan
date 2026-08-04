@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — August 04
+OpenAI's unreleased Astra model just published Lean 4 proofs for 10 long-open math problems and a Fields Medalist endorsed one for a top journal — the same 48 hours Alibaba shipped Qwen3.8-Max (2.4T MoE, open weights this week) and Hugging Face's CEO said China will pass US frontier labs on open weights before year-end.
+Today's brief covers:
+→ Astra's 10 machine-verifiable proofs + Qwen3.8-Max's 93.0 PaperBench score
+→ OpenAI Assistants API + Azure Inference SDK both sunset Aug 26 — 22-day migration window
+→ Yellow.ai to list on Nasdaq via $550M SPAC + Aiforia €20M EIB + Baselayer $20M A
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-04.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
