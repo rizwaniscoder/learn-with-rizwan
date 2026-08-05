@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 05
+Anthropic locked $10B of Nvidia Vera Rubin compute in Norway via a 7-month-old neocloud yesterday, and named an ex-California Supreme Court Justice as its first Chief Global Affairs Officer the same day. Both moves in one 24-hour window — capital and policy hardening at once.
+
+Today's brief covers:
+→ Anthropic's $10B Volta/Bitdeer Norway deal + Cuéllar hire
+→ Alibaba Qwen3.8-Max (2.4T, open weights next week) hits Claude Fable 5 parity
+→ kimi-k3-in-c runs full 2.78T model on one CPU with 8.24 GB RAM
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-05.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
