@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 06
+Anthropic just anchored the first credit-backed neocloud — a $10B, 6-year Volta/Bitdeer Norway deal with a $1.3B JPMorgan-led backstop — 48 hours after EU AI Act GPAI fines went live and Alibaba shipped Qwen3.8-Max claiming Fable 5 parity. Three funding rails for the frontier now: hyperscaler, credit-backed neocloud, and sovereign-partnered open weights.
+
+Today's brief covers:
+→ Zenity's $125M Series C for AI agent security (SoftBank/LG/Hitachi/Intel Capital in)
+→ EU AI Act Article 101: €15M / 3% fines now enforceable against GPAI providers
+→ Valar Atomics ($1B, Sequoia) and Base Power ($1B, Ribbit) both tied to AI-driven load growth
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-06.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
