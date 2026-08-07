@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — August 07
+Jeff Dean and Sanjay Ghemawat left Google after 27 years on Tuesday to co-found Discovery Loop — the same week Meta shipped a coding agent priced a third below Claude Sonnet and DeepSeek reopened an $8B round at a $74B valuation.
+Today's brief covers:
+→ Google DeepMind reshuffle: Hassabis to Chair, Dean/Ghemawat/Vinyals/Le all out
+→ Meta Muse Code at $1.25/$4.25 per M tokens resets the coding-agent floor
+→ Anthropic ships an inline DLP webhook inside Claude Enterprise
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-07.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
