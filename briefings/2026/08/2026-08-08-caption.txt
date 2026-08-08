@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 08
+Google reshuffled DeepMind on Wednesday and 24 hours later Jeff Dean, Sanjay Ghemawat, Vinyals and Quoc Le walked out with Discovery Loop — biggest single-day Google exit ever, and Alphabet is a founding investor.
+
+Today's brief covers:
+→ Hassabis to Chairman, Kavukcuoglu takes Gemini roadmap
+→ OpenAI Astra solves 10 open math problems in Lean 4 for ~$2K
+→ Yellow.ai's $550M SPAC opens the BPO-replacement window
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-08.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
