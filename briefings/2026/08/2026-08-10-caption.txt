@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — August 10
+Jeff Dean just walked out of Google after 27 years to co-found Discovery Loop with Sanjay Ghemawat, Oriol Vinyals and Quoc Le. Palantir printed +93% YoY the same week — AI sovereignty demand is real.
+Today's brief covers:
+→ OpenAI ships Agent Plugins 1.0 as a cross-lab standard with AWS, Google, Vercel, Cursor and GitHub
+→ Qwen3.8-Max hits 86.6 on Terminal-Bench 2.1 (open weights this week) — beats Opus 4.8 and Fable 5
+→ Hadrian raises $1.37B at $7.87B for defense manufacturing — biggest defense-tech round of the quarter
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-10.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
