@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 11
+Meta just dropped a 30B open-weights agent model that runs on a single consumer GPU — Muse Glimmer. The same day, OpenAI shipped GPT-5.6-Cyber to vetted defenders. Local-first agents and gated frontier cyber models landed in the same 24 hours.
+
+Today's brief covers:
+→ Muse Glimmer 30B changes what "local Claude replacement" means for your customers
+→ 70% of enterprise RAG deployments still ship with no evaluation — a $10K–$50K services wedge
+→ EU AI Act GPAI fines are live: €15M or 3% of global turnover, effective now
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-11.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
