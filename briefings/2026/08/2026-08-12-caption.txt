@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 12
+
+Inside 48 hours Nvidia lined up $500B in Wall Street capital for AI infra and Anthropic signed a $9.1B Riot Platforms deal — the day after OpenAI shipped its first offense-grade hacking model, already credited with two live Chrome V8 CVEs.
+
+Today's brief covers:
+→ Nvidia's $500B financing MOU with Apollo, BlackRock, Blackstone, Brookfield, Goldman & KKR
+→ Snowflake ships Claude Opus 5 on Cortex AI — 11k+ enterprises just got a Claude on-ramp
+→ AlixPartners buys agentic-AI shop Artium — Tier-2 consulting is now buying, not building
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-12.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
