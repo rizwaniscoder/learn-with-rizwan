@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 14
+OpenAI just made GPT-5.6 Sol run 14× faster on Cerebras chips — the AI infrastructure layer split off from the model layer as its own capital stack in a single afternoon, hours before Vantage Data Centers opened talks on a $100B IPO.
+
+Today's brief covers:
+→ Ultrafast inference is now a discrete migration SOW — how to sell it
+→ Cognition in talks at $40B; Lovable $400M; River AI $1.1B out of stealth
+→ Google DeepMind reshuffle: Kavukcuoglu in, Jeff Dean out after 27 years
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-14.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
