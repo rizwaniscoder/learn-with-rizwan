@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — August 15
+Big Blue picked its lab. IBM Consulting just stood up a dedicated OpenAI Practice — thousands of certified consultants and Forward Deployed Experts, GPT-5.6 and Codex baked into its delivery platform — and it landed the same week Google shipped Gemini 3.7 Flash at half the price and Z.ai's GLM-5.3 beat both Claude Mythos 5 and GPT-5.6 Sol on cybersecurity.
+Today's brief covers:
+→ IBM + OpenAI's new practice — what it opens up for smaller shops
+→ GLM-5.3 tops CyberGym at 84.5 — a new cyber+AI services line
+→ Lovable's $400M at $13.3B and CodeRabbit's $143M — vibe coding meets AI-code governance
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-15.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
