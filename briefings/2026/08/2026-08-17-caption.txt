@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 17
+
+IBM just joined OpenAI's Elite partner tier and is training tens of thousands of consultants on Codex, ChatGPT Work and Daybreak — the biggest global SI made "OpenAI on enterprise" a category, and the mid-market subcontract lane beneath it is where every boutique gets to eat this quarter.
+
+Today's brief covers:
+→ IBM + OpenAI Elite tier — how to get on the subcontract lane
+→ Anthropic in $6B talks to acquire Decart for world models + inference efficiency
+→ River AI closes $1.1B at ~$5B two months out of stealth (Babuschkin, ex-xAI)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-17.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
