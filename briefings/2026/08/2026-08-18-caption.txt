@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 18
+Stripe just paid $7B+ for OpenRouter — 5.4× its May valuation, three months later. Payments is claiming the settlement layer for the entire agent economy.
+
+Today's brief covers:
+→ Stripe's $7B+ OpenRouter deal reshapes model-routing economics
+→ Gemini crosses 1B monthly users, fastest Google product ever
+→ Qwen3.8-27B open weights beat Claude Opus 4.6 on 15 of 19 benchmarks
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-18.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
