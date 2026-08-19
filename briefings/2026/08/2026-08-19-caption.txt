@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 19
+Etched just doubled to a $21B valuation in under a month — the first non-Nvidia AI-inference rack in real production revenue at Jane Street.
+The same 24 hours: Baidu Q2 GPU cloud +283% YoY and OpenAI shipped a separate teen-safety ChatGPT.
+
+Today's brief covers:
+→ Etched $700M raise + Baidu GPU cloud triple-digit growth (fourth quarter running)
+→ OpenAI Partner Network Select tier open — 300K consultants targeted by year-end
+→ MCP 2026-07-28 stateless retrofit window + DeepSeek V4-Pro GA on MIT weights
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-19.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
