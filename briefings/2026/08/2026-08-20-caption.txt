@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 20
+OpenAI just told staff the IPO is 2027, not September. Bigger deal in the same all-hands: enterprise revenue crossed consumer for the first time — Codex + ChatGPT Work at 20M weekly users.
+Same 24 hours: SpaceX quietly approached Cognition about a takeover, five days after closing $60B on Cursor.
+
+Today's brief covers:
+→ OpenAI enterprise > consumer + IPO slips to 2027 (CFO to staff Aug 19)
+→ Databricks closes $5B at $190B, Q2 run rate crosses $7B (+80% YoY)
+→ Rillet hits $1B on 600 customers, Higgsfield $400M at $5.4B, Wispr $280M at $2B
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-20.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
