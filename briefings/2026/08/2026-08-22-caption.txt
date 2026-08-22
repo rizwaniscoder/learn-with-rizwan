@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 22
+Broadcom just opened talks for a $70B (up to $100B) debt raise to finance Anthropic's AI chip commitments — 48 hours after Marvell handed Google a $12.2B TPU-tied share warrant. AI capex quietly moved from equity to structured credit this week.
+
+Today's brief covers:
+→ India Big-5 IT services flip to outcome-based pricing under 25–30% price-cut demands (Reuters)
+→ Z.ai GLM-5.3 becomes first open-weight model to top proprietary on cyber-defense benchmarks
+→ Rillet joins the unicorn club at $1B for AI-native ERP; Mercor in talks with Nvidia at $20B
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-22.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
