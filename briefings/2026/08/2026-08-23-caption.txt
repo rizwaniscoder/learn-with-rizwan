@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 23
+Anthropic's IPO prospectus lands within days at a near-$1T valuation — and will list AI public backlash as a risk factor. The largest AI IPO ever is going public with "the mob might turn" on page one.
+
+Today's brief covers:
+→ Rillet becomes an AI-native ERP unicorn in 48 hours — $100M at $1B, Oracle/SAP/Workday replacement wave opens
+→ Nevada clears up to 7,000 robotaxis in Clark County — Tesla, Waymo, Uber, Zoox all get paid-ride permits
+→ Cloudflare Kitesurf ships an agent-first browser using 3–7× less CPU than Chromium
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-23.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
