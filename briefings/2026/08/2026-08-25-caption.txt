@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 25
+Three separate $B-scale AI bets landed in a 24-hour window yesterday — Alibaba priced $10.2B for full-stack AI, XPeng's robotics arm hit $6.3B, and Nvidia was reported in talks to back Perplexity at $30B+.
+And Nvidia itself prints Q2 FY27 tomorrow.
+
+Today's brief covers:
+→ IBM Consulting's new OpenAI Practice — Select tier still open to boutiques
+→ Cloudflare Kitesurf, an agent-first browser 3–7× lighter than Chromium
+→ Pakistan freelance IT exports opened FY27 at $175M in July, +45% YoY
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-25.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
