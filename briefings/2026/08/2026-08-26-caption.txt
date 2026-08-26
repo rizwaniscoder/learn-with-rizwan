@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 26
+Porsche just handed TCS a €1.25B five-year AI deal and its 4,500-person MHP consulting arm — the clearest signal yet that enterprise AI transformation is going to the Indian IT majors at OEM scale. And it landed the same 24 hours as Nvidia's Groq 3 LPX going into full production.
+
+Today's brief covers:
+→ TCS × Porsche: the OEM-transformation deal template every carmaker in Europe now has to respond to
+→ Nvidia Groq 3 LPX enters full production — 3,400 tok/sec, Nebius launch customer
+→ Nebius closes $5.75B convertible, Broadcom lining up $60B+ AI-chip debt for Anthropic
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-26.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
