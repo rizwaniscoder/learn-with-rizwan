@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — August 27
+Nvidia just printed $96.2B (+106% YoY) and guided next quarter past $108B — first time any chipmaker has pointed at a $100B+ quarter. Hyperscaler capex is now $1.3T for 2027, and services capacity is the bottleneck, not demand.
+Today's brief covers:
+→ Nvidia $96.2B print, $108B Q3 guide, AWS commits to 2M GPUs + Vera CPU
+→ Emerald AI closes $150M Series A at $1.05B for data-center grid-flex software
+→ Z.AI unmasks GLM-5.3-Flash as the "ox-alpha" stealth model, free for a week
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-27.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
