@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 28
+Nvidia just printed $96B on a $108B forward guide — and in the same 24 hours Anthropic locked $45B in compute at Nscale and Salesforce embedded Claude inside its CRM. Chips, compute, and apps all shipped their Q3 orders on one day.
+
+Today's brief covers:
+→ Nvidia Q2 FY27 blowout + Anthropic's 460 MW Vera Rubin lockup
+→ Claudeforce opens a fresh services lane for Salesforce partners
+→ UK AI-user hiring +61%, Pakistan non-IT freelance doubled — where to sell now
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
