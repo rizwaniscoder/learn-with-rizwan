@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 29
+
+Nvidia is reportedly buying Hugging Face for $12.9B — and a US judge just blocked the Pentagon's ban on Anthropic. The frontier AI stack and its distribution both changed hands in 24 hours.
+
+Today's brief covers:
+→ Nvidia → Hugging Face $12.9B deal reshapes the open-model registry
+→ Anthropic wins Pentagon ruling — federal AI contracts back in play
+→ Z.ai's GLM-5.3-Flash open weights (320B params, MIT) plus Emerald AI at $1.05B
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-29.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
