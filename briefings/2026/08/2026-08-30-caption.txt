@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — August 30
+OpenAI just invoked its change-of-control clause and cut Cursor off from GPT models after SpaceX's $60B takeover — Anthropic is stepping in with more compute, and every Cursor enterprise now needs a vendor-risk memo before November 12.
+
+Today's brief covers:
+→ OpenAI–Cursor split + Nvidia's reported $12.9B Hugging Face deal
+→ a16z's $1.1B Machine Age Fund and where the services money flows next
+→ AI Engineer named LinkedIn's #1 fastest-growing US job (+143% YoY)
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-30.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
