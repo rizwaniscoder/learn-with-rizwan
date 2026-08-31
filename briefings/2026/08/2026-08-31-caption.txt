@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — August 31
+
+OpenAI is yanking its models out of Cursor on Nov 12 after SpaceX closed the acquisition. Every dev org running Cursor now has a 10-week forced migration — and a whole services market just opened up.
+
+Today's brief covers:
+→ OpenAI's Cursor cutoff + the "escape hatch" opportunity for services shops
+→ Sony/Warner sue Anthropic; a16z closes $1.1B Machine Age Fund
+→ Meta Muse Glimmer 30B, DeepSeek Harness, Qwen3.8-Flash-Next
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/08/2026-08-31.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
