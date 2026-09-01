@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 01
+John Ternus becomes Apple CEO today — Tim Cook steps up to executive chairman, and Ternus's first shipping test is the Sept 9 event where Siri gets rebuilt on Google Gemini. The biggest platform-owner reset since Nadella took Microsoft.
+
+Today's brief covers:
+→ Anthropic Model Hardware Standard opens the lab-automation services lane
+→ Groq $350M, Wispr $280M, Emerald AI $150M all priced in the last two weeks
+→ Salesforce Q2: Agentforce ARR $1.5B (+240%), Claudeforce open beta in September
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-01.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
