@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 02
+Anthropic just cut Claude Fable 5.1's cache reads by 75% (headline pricing unchanged) — same day World Labs shipped Atlas and Tripo AI closed ~$446M. The frontier reasoning, spatial, and 3D stacks all moved in one Sept 1 window.
+
+Today's brief covers:
+→ Fable 5.1 & Mythos 5.1 land: ~25% cheaper for typical workloads, ~45% for agentic loops
+→ World Labs Atlas — first true multimodal (text/image/video/3D) world model
+→ HUMAIN + AMD + Cisco go live in Saudi — turnkey infra shipped, services layer empty
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-02.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
