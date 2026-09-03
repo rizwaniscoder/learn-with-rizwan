@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 03
+
+Frontier AI officially crossed into offensive cyber yesterday. Google gated Gemini 3.8 Flash Cyber behind a vetted-access program, OpenAI declared Astra the first model to hit its "Critical" cyber threshold — and enterprise defense capital matched with $127M into HiddenLayer and Huskeys in a single day.
+
+Today's brief covers:
+→ Gemini 3.8 Flash + Fable 5.1 + Astra all ship in 48 hours
+→ LEAP 2026 opens Riyadh with $15B in AI deals + HUMAIN's Arabic M3 model
+→ NYC bans generative AI through 8th grade — 38 vendors need re-certification
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-03.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
