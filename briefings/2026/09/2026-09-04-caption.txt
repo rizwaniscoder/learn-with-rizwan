@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 04
+
+OpenAI just shipped GPT-6 Astra as the first frontier model to cross its own "Critical" cyber threshold — and gated the full version behind a Daybreak-only tier. Same 48 hours: Broadcom guided AI chip revenue to $115B for FY27 with 10GW of Anthropic already booked.
+
+Today's brief covers:
+→ GPT-6 Astra ships with 100% on ExploitBench and 2 zero-days found autonomously
+→ Broadcom's AI backlog names >10GW Anthropic + >5GW OpenAI through 2028
+→ TCS folds AI into one global unit under Amit Kapur — the 90-day window for services shops is open
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-04.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
