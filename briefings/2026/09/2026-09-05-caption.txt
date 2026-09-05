@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 05
+Nvidia just signed a $12.9B deal to buy Hugging Face, and OpenAI shipped GPT-6 Astra at the "Critical" cybersecurity level — all in the same 72-hour window that also carried Fable 5.1, Gemini 3.8 Flash and MAI-Transcribe-2.
+Today's brief covers:
+→ Nvidia × Hugging Face: what open-source distribution looks like now
+→ Fable 5.1's 75% cache cut and OpenAI Astra's new safety line
+→ ChatGPT Ads opening in India + MENA at $1B ARR
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-05.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
