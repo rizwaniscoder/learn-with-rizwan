@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 06
+OpenAI just shipped GPT-6 "Astra" as the first model it rates "Critical" for cyber — and in the same week Anthropic locked another $35B of GPU capacity with Lambda and Broadcom guided AI-chip revenue to $115B by FY27. Frontier model, compute contract and chip forecast all landed on the same clock.
+
+Today's brief covers:
+→ GPT-6 "Astra" ships with computer-use + a first-ever "Critical" cyber rating
+→ Claude Fable 5.1 cuts cache-read pricing 75%, beats Fable 5 / Opus 5 / GPT-5.6 Sol
+→ EU AI Act fires €47M in first-month fines — a live gap-audit market for services shops
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-06.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
