@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 08
+Nvidia just bought Hugging Face for $12.93B and OpenAI shipped GPT-6 Astra on the same day — silicon-to-model-hub consolidation and a new frontier model landed together, while Sanders filed a bill to ban superintelligence.
+Today's brief covers:
+→ Claudeforce open beta opens this month — 37 sales skills, everything else is a services opening
+→ Crusoe raises $3B at $30B on a $13B Jane Street GPU deal
+→ TCS Q1 AI run rate at $2.6B — tier-1 bench is stretched, subcontract window open
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-08.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
