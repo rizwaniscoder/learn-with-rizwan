@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 09
+Mistral just closed a €3B Series D at €21B — Europe's biggest ever tech round — the same 24 hours China laid out a $532B AI compute plan and Forus took $150M for AI agents between prescribe and dispense.
+
+Today's brief covers:
+→ Mistral's €3B Series D at €21B (Samsung + EQT + PSG) with Airbus, ASML and HSBC now named customers
+→ China MIIT's plan for 9,800 EFLOPS by 2030 (4× today) backed by $532B and 100K-card clusters
+→ 6 concrete opportunity signals from Mistral deployment work to CrowdStrike's Verified Agent path
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-09.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
