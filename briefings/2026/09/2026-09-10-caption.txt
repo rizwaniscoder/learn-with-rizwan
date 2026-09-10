@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 10
+DeepSeek quietly rerouted every V4 Pro API call to V4.1 Flash at Flash prices at 04:00 UTC this morning — the same week Qualcomm locked AWS as its first Western hyperscaler for AI inference silicon. The price floor is still collapsing under everyone building on top.
+Today's brief covers:
+→ Qualcomm–AWS custom inference silicon deal, ~$60B implied with 25M-share warrants
+→ GPT-6 Astra becomes OpenAI's first "Critical" cybersecurity model (100% on ExploitBench)
+→ 6 concrete opportunity signals — DeepSeek cost audits, Claudeforce activation, HUMAIN AI PC rollout in MENA
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-10.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
