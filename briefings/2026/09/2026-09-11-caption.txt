@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 11
+Oracle just booked $30B in new AI-cloud contracts in a single quarter and pushed its backlog to $664B — the clearest enterprise-AI-spend signal we've seen, landing the same 48 hours Positron raised $875M for a memory-first inference chip and Anthropic's IPO prospectus is expected any day.
+
+Today's brief covers:
+→ Oracle Q1 FY27: OCI +121%, $30B new AI contracts, $90B FY27 guide
+→ Positron $875M at $5B — Asimov chip tape-out end of 2026
+→ Meta buys Stilla to power WhatsApp Business Agent across 1M+ SMBs
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-11.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
