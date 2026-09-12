@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 12
+Oracle just booked $664B in AI-cloud contracts (half of it OpenAI) and Microsoft leaked a plan to triple to 38 GW by 2032 — in the same 48 hours Anthropic published a threat report showing hundreds of AI agents already breaching organizations at machine speed. The buildout and its security reckoning landed on the same page.
+
+Today's brief covers:
+→ Oracle's $664B backlog + Microsoft's 38 GW plan + Anthropic's AI-attack report
+→ Mistral's €3B Samsung-led round at €21B — biggest private tech round in EU history
+→ Salesforce Agentforce ARR +240% and where the services money is flowing next
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-12.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
