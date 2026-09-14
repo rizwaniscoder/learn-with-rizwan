@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 14
+Oracle just printed $455B RPO with $30B of new AI contracts in one quarter. Anthropic's compute stack rolled to ~$517B pre-IPO. Mistral closed Europe's biggest tech round ever at €3B. All in the same trading week.
+Today's brief covers:
+→ Accenture + Google spin up a 1,000-FDE Gemini unit (subcontractor bench opens)
+→ Mistral × Cloudera opens a sovereign-RAG services lane for banks and ministries
+→ Salesforce ships 7 named Agentforce agents at Dreamforce — mid-market work is live
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-14.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
