@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 15
+Trump publicly attacked Anthropic's Amodei over his AI-slowdown letter — the same day the WaPo surfaced Anthropic/OpenAI/Google's private plan for an industry-run standards body. Governance stopped being a paper and started moving markets.
+
+Today's brief covers:
+→ Temporal closes $550M at $12.55B — reliability infra becomes an enterprise line item
+→ DeepSeek folds V4-Pro into V4.1 Flash at $0.15/$0.60 per M (4-8x price cut for every V4-Pro caller)
+→ AIR Security's $50M seed opens a real "AI agent supply-chain audit" services line
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-15.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
