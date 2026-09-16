@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 16
+Salesforce moved Hyperforce onto Google Cloud at Dreamforce yesterday and pushed the Salesforce-in-Claude plugin (37 skills) into open beta the same day. The world's most-installed CRM now spans two hyperscalers and a frontier lab in a single day.
+Today's brief covers:
+→ Salesforce × Google Cloud "one connected AI stack" + Salesforce-in-Claude open beta
+→ Cognition raises $2B at $48B, Mistral raises €3B at €21B, Crusoe $3B+ at $30B
+→ OpenAI GPT-6 Astra, Claude Fable 5.1, DeepSeek V4.1 Flash — and the Nvidia/Hugging Face $12.9B deal
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-16.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
