@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 18
+
+Nvidia just bought $5B of Intel and signed a multi-generation deal to co-design custom x86 CPUs for AI data-centers and RTX-fused SoCs for PCs — the "CUDA vs x86" fight collapsed into a co-design in one morning.
+
+Today's brief covers:
+→ Salesforce ships seven named Agentforce agents with a weeks-long "Hunter" runtime
+→ Novo Nordisk standardizes on Claude for drug discovery — regulatory docs 12 weeks → 10 minutes
+→ Profound raises $180M at $1.8B for brand visibility inside ChatGPT/Gemini
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-18.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
