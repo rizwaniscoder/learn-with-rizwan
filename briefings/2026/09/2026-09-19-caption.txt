@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 19
+Anthropic and Accenture just made third-party AI safety evaluation a paid services line — $1B+ each over 5 years, embedded Faculty AI evaluators with employee-level access inside Anthropic. Non-exclusive, so OpenAI, Google DeepMind and Meta will each need their own vetted rosters next.
+
+Today's brief covers:
+→ Anthropic-Accenture embedded-evaluator partnership (opens a brand-new services category)
+→ Nscale files publicly for a $30B NYSE IPO — second neocloud after CoreWeave
+→ OpenAI ships Astra for Law: 54% on legal bench vs 38.7% for GPT-6 Astra
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-19.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
