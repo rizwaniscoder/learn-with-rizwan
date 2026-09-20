@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 20
+The Nvidia-Hugging Face deal is clearing its first review, and all five frontier CEOs just publicly aligned around Amodei's "slow down" plan.
+The compliance layer of AI is quietly becoming this quarter's biggest services opportunity.
+
+Today's brief covers:
+→ EU AI Act audits started this week — fixed-price compliance packages are the play for services shops
+→ Nvidia's $13B Hugging Face acquisition, Instinct's $250M Series B, and 4 other rounds
+→ Claude Fable 5.1, Gemini 3.8 Live, and Shanghai's 744B open agentic MoE
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-20.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
