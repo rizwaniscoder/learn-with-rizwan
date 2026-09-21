@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — September 21
+Anthropic quietly told Bloomberg that Claude now leads 26% of its own R&D — days before its public S-1 is expected. Recursive self-improvement isn't a paper anymore; it's the operating model.
+Today's brief covers:
+→ StepFun Step 5 opens API at $1/$2.70 per M — 600B MoE, 1M context, weights Oct 15
+→ Cloudflare's security-audit skill is #1 on GitHub 4 days running — AI audits go shippable
+→ AWS opens 3 Agentic AI Competencies with 60 launch partners before re:Invent
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-21.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
