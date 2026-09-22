@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 22
+SoftBank just priced an $11B junk-bond sale to fund next week's OpenAI tranche — the biggest APAC non-financial corporate bond ever. Three days earlier Nscale filed a public S-1 disclosing a $44.6B Anthropic compute commitment. AI infrastructure just opened on public markets — debt and equity, same week.
+
+Today's brief covers:
+→ SoftBank's $11B bond + Nscale's $35B-target IPO filing + $44.6B Anthropic disclosure
+→ Cohere and Aleph Alpha's $20B transatlantic merger with a $600M Schwarz Gruppe check
+→ UK AI engineer demand +1,133% since 2024; StepFun's 600B / 1M-context open-weight preview
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-22.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
