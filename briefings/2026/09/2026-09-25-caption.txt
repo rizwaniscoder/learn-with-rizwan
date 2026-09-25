@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 25
+Anthropic and OpenAI shipped cheaper flagships 90 minutes apart on Tuesday — Opus 5.5 at 40% lower run cost, GPT-6 Sol/Luna at half the GPT-5.6 rate. Same 48 hours: Australia's PM disclosed the first known AI-agent breach of a government portal, Altman and Amodei briefed the UN Security Council, and Claude autonomously flagged a CRISPR-like enzyme system.
+
+Today's brief covers:
+→ Opus 5.5 + GPT-6 Sol/Luna price war + a two-week model-migration services angle
+→ First AI-agent gov-portal breach (OpenAI × Services Australia) opens agentic-security audit line
+→ Snorkel $350M / Enveda $311M / Precision Neuro $250M / Ema $77M all price this week
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-25.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
