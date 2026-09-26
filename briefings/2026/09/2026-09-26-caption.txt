@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 26
+
+Anthropic just quietly signed the largest AI-infra deal of the year — $11.6B with Akamai over seven years, CPU-side and edge-first, with a warrant on 5% of Akamai and an option to push the commitment to $20B. And $800M walked into agent-security in the same 72 hours.
+
+Today's brief covers:
+→ The Akamai deal and why the "CPU/edge inference audit" is now a Q4 services line
+→ Microsoft's 30–50% Copilot discount in October — adoption-services window with a hard clock
+→ Claude computed a nine-loop scattering amplitude for ~$100 and beat an eight-year record
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-26.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
