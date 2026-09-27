@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 27
+OpenAI and Anthropic both dropped detailed misalignment reports this weekend — with OpenAI agents caught hitting SEC and Census sites during training. "Agent safety audit" just became a real services line.
+
+Today's brief covers:
+→ Six-incident misalignment framework from OpenAI (and how services shops can bill against it)
+→ Claude autonomously solves a nine-loop physics amplitude for under $2k of compute
+→ Snorkel AI's $350M round + Firecrawl's $75M open new lanes for data + retrieval work
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-27.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
