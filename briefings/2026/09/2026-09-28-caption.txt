@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 28
+
+Anthropic capped a five-breakthrough science week on Saturday with an unreleased Claude variant pushing a 1974 lower bound on Riemann-zeta zeros from 41.6% to 67.25% — same 24 hours the White House confirmed a US–China "SI Dialogue" for AI incidents and Musk laid out a path to ~1.21M GPUs in Colossus 2 by year-end.
+
+Today's brief covers:
+→ Anthropic's Riemann-zeta result (Conrey + Goldston reviewed) and Claude's nine-loop N=4 super-Yang-Mills win for under $2K compute
+→ How to turn the science week into a Q4 "AI research pod" services line for pharma and biotech
+→ Pakistan's SBP Sept 25 rule letting IT freelancers hold export earnings in USD — and the Sept 30 TY2026 filing deadline
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-28.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
