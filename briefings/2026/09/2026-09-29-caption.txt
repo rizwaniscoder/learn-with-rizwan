@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — September 29
+Anthropic dropped Sonnet 5.5 yesterday at the same $2/$10 price, 30% faster, and Terminal-Bench 4.0 leapt from 10.3% to 70.6%.
+Same 24 hours, NVIDIA shipped a hardware-anchored agent safety stack under Linux Foundation governance.
+
+Today's brief covers:
+→ Sonnet 5.5 re-prices every Claude-agent SOW this week
+→ NVIDIA OpenShell + Sentry: the first hardware-anchored agent safety layer
+→ Temporal $550M Series E at $12.55B on agentic-workflow demand
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-29.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
