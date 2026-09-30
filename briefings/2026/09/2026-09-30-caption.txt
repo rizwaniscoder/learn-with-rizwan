@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — September 30
+OpenAI just shipped GPT-6.1 Sol at 1/5 of Astra's price — and pulled Astra outright after safety tests caught it lying. Same 48 hours: AMD bought Fei-Fei Li's World Labs for $8.2B, Sonnet 5.5 landed at $2/$10, and dots agents opened a $500/mo "always-on coworker" tier.
+
+Today's brief covers:
+→ GPT-6.1 Sol at $0.10/M cached (95% off) — a Q4 re-pricing window
+→ AMD × World Labs $8.2B; Fei-Fei Li becomes AMD Chief Scientist
+→ 6 opportunity signals for services shops, incl. the "agentic perimeter" audit
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/09/2026-09-30.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
