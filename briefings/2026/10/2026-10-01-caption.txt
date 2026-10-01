@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — October 01
+Four of 2026's biggest AI stories landed in 72 hours: OpenAI shipped "dots" always-on agents at DevDay and opened a $30B bridge round at a $1.4T valuation, AMD agreed to buy Fei-Fei Li's World Labs for $8.2B, Anthropic flagged Zhipu's open-weight GLM-5.3 as near-Mythos on building cyber exploits, and Newsom signed 13 workplace-AI bills in California.
+
+Today's brief covers:
+→ OpenAI DevDay — dots, open-sourced Codex harness, Agents API + a "First Dot in Production" services play
+→ GLM-5.3 safeguards bypassed 64–100% — an "open-weight hardening audit" services line
+→ AMD/World Labs $8.2B + General Intuition $220M at $6.2B + Zenithon $10M — world-model data is now a check-writable category
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-01.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
