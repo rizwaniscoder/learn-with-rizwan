@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — October 2
+Anthropic's S-1 just leaked — $11.5B in a single quarter, an "existential risk to humanity" risk factor, and $518B of compute locked in on the path to a ~$2T IPO. Same week the Third Circuit killed the "fair use" defense for AI training. Every production stack now needs a cost audit AND a copyright audit before Q4 close.
+
+Today's brief covers:
+→ Anthropic S-1 leak: $11.5B Q2, "existential risk" disclosure, $2T IPO ahead
+→ Third Circuit rejects "fair use" for AI training (Thomson Reuters v. ROSS)
+→ AMD buys Fei-Fei Li's World Labs for $8.2B all-stock
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-02.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
