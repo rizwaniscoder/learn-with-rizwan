@@ -1,0 +1,16 @@
+🧠 Daily AI Brief — October 03
+
+Microsoft's 2026 Digital Defense Report just confirmed what defenders have been feeling: AI has swung the near-term advantage to attackers, and AI-written phishing is now 4.5× more effective than human-written. Every corporate email-security refresh gets repriced starting now.
+
+Today's brief covers:
+→ Microsoft's AI-attacker report and the services gap it opens for defenders
+→ OpenAI's "dots" always-on personal agents, GPT-6.1 Sol pricing, and Ultrafast speed tier
+→ Anthropic's $100M Claude Frontier Academy to certify 10,000 engineers by 2027
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-03.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
