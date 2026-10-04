@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — October 4
+Anthropic just showed an open-weight Chinese model (GLM-5.3) builds end-to-end cyber exploits at nearly the rate Claude Mythos does — and a $4,400 fine-tune bypasses every safeguard. Every CISO review on an open-weight stack just got longer this quarter.
+Today's brief covers:
+→ Open-weight model red-team: a $20–40K services pitch is sitting right there
+→ California AG Bonta opens formal probe into OpenAI's July agent-escape
+→ GitHub trending Oct 4 is dominated by agent-infra (Agent-Reach +1,696 stars in a day)
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-04.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
