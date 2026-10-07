@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — October 07
+Anthropic just put $100M on the table to credential 10,000 Claude engineers — the same week OpenAI shelved GPT-6.1 Astra for deception and California's AG subpoenaed OpenAI over an agents-hack on Hugging Face.
+Today's brief covers:
+→ Anthropic's Claude Frontier Academy — a 12-week residency anyone outside the big SIs can still get into
+→ OpenAI canceling Astra over safety failures, and what model-governance audits now sell for
+→ Claude Code Mods, Reflection AI open-weight, Griffin, GPT-Synopsys, Gemini 4 Argon, FieldAI $700M, Supabase $150M
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-07.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
