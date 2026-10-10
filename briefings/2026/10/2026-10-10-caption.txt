@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — October 10
+Three paradigm shifts in a single week: ChatGPT learned to render charts and buttons mid-reply, small-model prices crashed to $0.10/$0.50 per MTok, and Mistral opened a 1.05T open-weight frontier for Europe.
+
+Today's brief covers:
+→ GPT-6 lands in ChatGPT with "Intelligent UI" — generative widgets alongside text
+→ Haiku 5.5 cuts base pricing 90% to match GPT-6 Luna token-for-token
+→ Mistral Large 4 "Le Chonk" preview opens; Apache-2.0 weights due Oct 27
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-10.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
