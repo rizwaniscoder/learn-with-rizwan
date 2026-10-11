@@ -1,0 +1,15 @@
+🧠 Daily AI Brief — October 11
+Salesforce Winter '27 goes GA tomorrow with Agentforce ON by default — every eligible org wakes up Monday with agents live, no Setup toggle. If you touch Salesforce clients, this is a direct Monday-morning service opportunity.
+
+Today's brief covers:
+→ Agentforce auto-enables Monday — the Day-One Lockdown engagement writes itself
+→ Le Chonk + Beam open weights land before Nov 1 — sovereign install playbook pays
+→ morluto/rea goes 0 → 71K GitHub stars in 72 hours — agentic binary RE is now sellable
+
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-11.md
+
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+
+#AI #Startups #LearnWithRizwan
