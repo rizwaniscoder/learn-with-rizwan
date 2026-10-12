@@ -1,0 +1,11 @@
+🧠 Daily AI Brief — October 12
+This week the model layer went quiet — the money and standards layer took over. SoftBank is hunting $100B from Gulf investors for an AI acquisition fund, Anthropic's IPO roadshow slipped to this week at a $2T investor target, and six commerce-agent protocols are now openly competing.
+Today's brief covers:
+→ SoftBank's $100B Gulf AI fund (FT, Oct 9) and what it means for GCC/Pakistan service shops
+→ Manus closes $500M in its first raise after Meta's $2B acquisition was called off
+→ Mistral Large 4 weights slip to Oct 27 — Vals ranks the preview #32 of 44
+Full 5-min read 👇
+https://github.com/rizwaniscoder/learn-with-rizwan/blob/main/briefings/2026/10/2026-10-12.md
+Not on the channel yet?
+https://whatsapp.com/channel/0029VbCDx73CcW4ob8VTJt2u
+#AI #Startups #LearnWithRizwan
